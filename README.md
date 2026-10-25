@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Saga Orquestrada para o Fluxo de Compra de E-commerce
 
 Blueprint de arquitetura para a migração de um monólito de e-commerce para microsserviços, usando o **padrão Saga (orquestração)** para garantir consistência eventual no fluxo crítico de compra (Pedido → Estoque → Pagamento).
