@@ -143,6 +143,3 @@ Para regerar os PNG a partir dos fontes: `java -jar plantuml.jar -tpng diagrams/
 - Chris Richardson, [Pattern: Saga](https://microservices.io/patterns/data/saga.html), microservices.io
 - Chris Richardson, [Pattern: Transactional Outbox](https://microservices.io/patterns/data/transactional-outbox.html)
 - Chris Richardson, *Microservices Patterns* (Manning), cap. 4
-=======
-# Pattern-Saga
->>>>>>> 80dec75f54163fd33a7a9987fb92c14391a7896c
