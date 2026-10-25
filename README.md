@@ -129,9 +129,9 @@ Detalhes de Retry, Circuit Breaker, DLQ e riscos em [`docs/decisoes-arquiteturai
 .
 ├── README.md
 ├── diagrams/
-│   ├── saga-architecture-overview.png /
-│   ├── sequence-success-flow.png / 
-│   └── sequence-compensation-flow.png /
+│   ├── saga-architecture-overview.png
+│   ├── sequence-success-flow.png
+│   └── sequence-compensation-flow.png
 └── docs/
     └── decisoes-arquiteturais.md
 ```
