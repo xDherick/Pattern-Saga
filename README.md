@@ -2,8 +2,6 @@
 
 Blueprint de arquitetura para a migração de um monólito de e-commerce para microsserviços, usando o **padrão Saga (orquestração)** para garantir consistência eventual no fluxo crítico de compra (Pedido → Estoque → Pagamento).
 
-> Este repositório contém apenas artefatos de arquitetura (diagramas e documentação). Não há código de aplicação.
-
 ## Sumário
 
 1. [Contexto de negócio](#1-contexto-de-negócio)
